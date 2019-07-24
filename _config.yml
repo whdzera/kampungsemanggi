@@ -2,7 +2,7 @@
 title:              Kampung Semanggi
 email:              kampung.semanggi@yahoo.com
 description:        "website kampung semanggi"
-url:                ""
+url:                "http://localhost:4000"
 baseurl:            /kampungsemanggi
 
 # File structure settings
