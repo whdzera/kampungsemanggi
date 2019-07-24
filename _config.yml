@@ -3,7 +3,7 @@ title:              Kampung Semanggi
 email:              kampung.semanggi@yahoo.com
 description:        "website kampung semanggi"
 url:                ""
-baseurl:            /semanggi
+baseurl:            /kampungsemanggi
 
 # File structure settings
 image_path:         /public/images
